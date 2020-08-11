@@ -6,7 +6,7 @@ A mini-project for use Instaloader to download the material
 
 ### Usage:
 step 1: pip install -r requirements.txt <br/>
-step 2: Run 
+step 2: run 
 ```
 python run.py 
         --mode account 
